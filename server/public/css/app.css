@@ -3,7 +3,7 @@
 }
 
 footer {
-    height: 50px;
+    height: 150px;
     background-color: palegreen;
     text-align: center;
 }
@@ -18,3 +18,9 @@ footer {
     height: 50px;
     width: 50px;
 }
+
+.image {
+    height: 50px;
+    width: 50px;
+}
+

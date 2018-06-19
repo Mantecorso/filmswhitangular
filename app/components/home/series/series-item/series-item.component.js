@@ -1,7 +1,7 @@
 import controller from './series-item.controller';
 
 export const SeriesItemComponent = {
-    binding: {
+    bindings: {
         data: '<'
     },
     controller,

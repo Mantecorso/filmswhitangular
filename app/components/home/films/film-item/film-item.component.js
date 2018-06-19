@@ -1,7 +1,7 @@
 import controller from './film-item.controller';
 
 export const FilmItemComponent = {
-    binding: {
+    bindings: {
         data: '<'
     },
     controller,

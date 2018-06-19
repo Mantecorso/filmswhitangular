@@ -9,10 +9,10 @@ export const HeaderComponent ={
     </div>
    <nav class="navbar navbar-dark bg-dark">
         <li class="nav-item">
-            <a ui-sref="films" class="nav-link">Películas</a>
+            <a ui-sref="films" class="nav-link btn btn-success">Películas</a>
         </li>
         <li class="nav-item"> 
-            <a ui-sref ="series" class="nav-link">Series</a>
+            <a ui-sref ="series" class="nav-link btn btn-success">Series</a>
         </li>
    
     </nav>

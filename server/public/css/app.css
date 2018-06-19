@@ -31,7 +31,10 @@ footer {
 .init {
     padding: 80px;
     background-color: paleturquoise;
+    text-align: center;
 }
 
-
+li {
+    text-decoration: none;
+}
 

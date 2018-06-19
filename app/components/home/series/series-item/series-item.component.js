@@ -6,7 +6,7 @@ export const SeriesItemComponent = {
     },
     controller,
     template:`
-    <div class="card center" style="width: 18rem">
+    <div class="card center fondo" style="width: 18rem">
        <img class="card-image-top " src="https://image.tmdb.org/t/p/w400{{$ctrl.data.poster_path}}"></img>
        <div class="card-body">
            <h5 class="card-title"> {{$ctrl.data.title}}</h5>

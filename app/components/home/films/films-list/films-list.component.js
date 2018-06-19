@@ -6,7 +6,7 @@ export const FilmsListComponent = {
     controller,
     template:`
     <h1> Listado de peliculas </h1>
-    <div class="container-fluid">
+    <div class="container-fluid fondo">
         <div class="row">
             <films-item class="col-sm-4" ng-repeat="film in $ctrl.filmsResult" data="film">
                

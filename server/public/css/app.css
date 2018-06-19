@@ -19,8 +19,19 @@ footer {
     width: 50px;
 }
 
+.fondo {
+    background-color: silver;
+}
+
 .image {
     height: 50px;
     width: 50px;
 }
+
+.init {
+    padding: 80px;
+    background-color: paleturquoise;
+}
+
+
 

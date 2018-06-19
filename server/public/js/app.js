@@ -1,0 +1,1 @@
+console.error("\n/home/luis/Documentos/dev/filmswhitangular/app/app.js:1\nimport angular from 'angular';\n^\nParseError: 'import' and 'export' may appear only with 'sourceType: module'");
